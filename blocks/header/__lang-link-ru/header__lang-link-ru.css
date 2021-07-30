@@ -1,0 +1,22 @@
+.header__lang-link-ru {
+	display: flex;
+	color: #ffffff;
+	font-size: 24px;
+	line-height: 28px;
+	padding-right: 0;
+	padding-right: 18px;
+	margin: 0;
+}
+
+.header__lang-link-ru:hover{
+	opacity: 0.7;
+	transition: opacity 0.4s;
+	text-decoration: underline;
+}
+
+@media screen and (max-width: 767px) {
+	.header__lang-link-ru {
+		font-size: 18px;
+		line-height: 20px;
+	}
+}

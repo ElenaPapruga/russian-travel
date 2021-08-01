@@ -1,32 +1,22 @@
 .place__url-box {
     display: flex;
     align-items: start;
-    font-style: normal;
-    font-weight: normal;
     font-size: 12px;
     line-height: 12px;
     justify-content: flex-end;
-    margin: 0;
-    padding: 0;
     flex-direction: column;
-}
-
-@media screen and (max-width: 1279px) {
-    .place__url-box {
-        width: 456px;
-    }
 }
 
 @media screen and (max-width: 1023px) {
     .place__url-box {
-        width: 352px;
+        max-width: 352px;
         font-size: 16px;
     }
 }
 
 @media screen and (max-width: 767px) {
     .place__url-box {
-        width: 288px;
-        margin: 0 10px 0px;
+        max-width: 288px;
+        margin-left: 15px;
     }
 }

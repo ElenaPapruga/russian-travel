@@ -1,21 +1,16 @@
 .place__url-heading {
     display: grid;
-    font-style: normal;
-    font-weight: normal;
     font-size: 12px;
     line-height: 170%;
     letter-spacing: 2px;
     color: #aaaaaa;
-    height: 12px;
-    margin-left: 0;
-    margin-bottom: 12px;
-    padding: 0;
-    list-style: none;
+    margin-bottom: 8px;
 }
 
 @media screen and (max-width: 1279px) {
     .place__url-heading {
         line-height: 12px;
+        margin-bottom: 12px;
     }
 }
 

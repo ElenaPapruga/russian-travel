@@ -1,12 +1,9 @@
 .place__paragraph {
-    font-style: normal;
-    font-weight: normal;
-    width: 484px;
     font-size: 18px;
     line-height: 163%;
     color: #ffffff;
-    margin-left: 0;
     padding-bottom: 25px;
+    margin: 0;
 }
 
 .place__paragraph:last-child {
@@ -15,21 +12,21 @@
 
 @media screen and (max-width: 1279px) {
     .place__paragraph {
-        width: 456px;
+        max-width: 456px;
     }
 }
 
 @media screen and (max-width: 1023px) {
     .place__paragraph {
-        width: 352px;
+        max-width: 352px;
         font-size: 16px;
-        padding-bottom: 20px;
+        padding-bottom: 25px;
     }
 }
 
 @media screen and (max-width: 767px) {
     .place__paragraph {
-        width: 288px;
-        padding-left: 10px;
+        max-width: 320px;
+        margin: 0 15px;
     }
 }

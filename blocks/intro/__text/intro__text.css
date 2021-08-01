@@ -1,11 +1,9 @@
 .intro__text {
     display: flex;
-    width: 690px;
-    font-weight: normal;
+    max-width: 700px;
     font-size: 16px;
     line-height: 163%;
     margin: 0 auto 33px 0;
-    padding: 0;
 }
 
 @media screen and (max-width: 767px) {

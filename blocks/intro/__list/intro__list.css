@@ -3,17 +3,11 @@
     flex-direction: column;
     list-style: none;
     max-width: 690px;
-    font-weight: bold;
+    font-weight: 700;
     font-size: 12px;
     line-height: 18px;
     margin: 0;
     padding: 0;
-}
-
-@media screen and (max-width: 1279px) {
-    .intro__list {
-        max-width: 690px;
-    }
 }
 
 @media screen and (max-width: 1023px) {

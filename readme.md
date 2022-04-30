@@ -1,6 +1,6 @@
 # Проект: Путешествие по России
 
-* [Посмотреть этот проект](https://github.com/ElenaPapruga/russian-travel)
+[Посмотреть этот проект](https://elenapapruga.github.io/russian-travel/)
 
 ## Описание проекта
 Проект направлен о путешествии по России.

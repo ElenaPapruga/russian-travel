@@ -2,6 +2,7 @@
 # Проект 3  в Яндекс-Практикуме (адаптивная верстка)
 # [Посмотреть этот проект](https://elenapapruga.github.io/russian-travel/)
 * [Посмотреть дизайн в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile)
+* [Чек-лист от Практикума](https://code.s3.yandex.net/web-developer/checklists-pdf/new-program/checklist-3.pdf)
 
 ## Описание проекта
 Проект направлен о путешествии по России.
